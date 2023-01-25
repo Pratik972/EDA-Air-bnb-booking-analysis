@@ -10,7 +10,7 @@ Neighbourhood groups with minimum number of nights to stay and people preferring
 
 # Approach Taken
 * EDA
-* Removing null values
+* Treating null values
 * Targeting each question of problem statement one by one.
 * Drawing graphs using the matplotlib library.
 
